@@ -55,7 +55,7 @@ Let's break these down.
     
     **A numbered list of steps.**
     
-    Did I mention we need **a numbered list of steps**?
+    Did I mention we need ***A NUMBERED LIST OF STEPS***?
     
 1. EXPECTED RESULT
 

@@ -6,7 +6,7 @@ But then I got a job as a lowly programmer at a certain fruit company, where the
 
  I'd like to share what I've learned so you can write great bug reports too!
  
- *Turns Out*™, writing a great bug report is surprisingly easy. A great bug report also vastly increases the chances that the bug will get fixed.
+ *Turns Out*™, writing a great bug report is easy. A great bug report also vastly increases the chances that the bug will get fixed.
 
 You've taken the step of contacting the devloper to report the bug, so clearly, you want this bug to be squashed. The best thing you can do to ensure that happens is to write a great bug report. And honestly, it only takes a few extra minutes.
 

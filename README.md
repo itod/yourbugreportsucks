@@ -17,7 +17,7 @@ And honestly, it only takes a few short minutes. *Turns Out*™, writing a great
 ####A great bug report always contains the following essential parts:
 
 1. SUMMARY
-1. CONTEXT
+1. SETUP
 1. STEPS TO REPRODUCE
 1. EXPECTED RESULT
 1. ACTUAL RESULT
@@ -32,8 +32,7 @@ Let's break these down.
     
     A one (or maybe two) sentence, high-level description of the problem. This is almost like a subject line of an email.
     
-
-1. CONTEXT
+1. SETUP
 
     This is where you tell the developer about your setup. Three things are vital:
     
@@ -47,13 +46,14 @@ Let's break these down.
     
     **This is the most important part**. Break the issue down into a specific numbered list of steps that always (or at least sometimes) reproduces the problem. 
     
-    Seriously. 
+    Seriously, break it down into a numbered list of steps. Here's an example:
     
-    A numbered list of steps.
-    
-    That's all we really need.
-    
-    Did I mention we need ***a numbered list of steps***?
+    ```
+    1. Visit example.com in any browser listed in SETUP above. See normal "Home" page appear.
+    2. Click blue "compose" button. See "compose" text area appear
+    3. Type "hello world" in compose text area
+    etc…
+    ```
     
 1. EXPECTED RESULT
 
@@ -69,12 +69,13 @@ Let's break these down.
 
 1. ADDITIONAL NOTES (OPTIONAL)
 
-    If you're feeling especially helpful, fee free to provide additional info here. 
+    If you're feeling especially helpful, fee free to provide additional info here. For example, if you know what version this issue first appeared in, please mention that here.
     
     If you're reporting a bug in a website, did you try to reproduce it in multiple browsers? (That's always a great idea, BTW.) Great! Tell us about it here!
     
     If you're reporting a bug in a Mac app, did you simultaneously run Console.app and capture some suspicious-looking console logs? (That's always a great idea, BTW.) Great! Tell us about it here!
-
+    
+    
 Below is a template to get you started. Please copy and paste this into an email or your bug reporting sofware of choice and start from there.
 
 That's it! Thanks for reading, and happy bug reporting!
@@ -86,7 +87,7 @@ That's it! Thanks for reading, and happy bug reporting!
     <REPLACE ME WITH A HIGH-LEVEL DESCRIPTION OF THE PROBLEM IN A SENTENCE OR TWO>
 
 
-    CONTEXT
+    SETUP
     ------------------
     Device: <DEVICE + VERSION HERE>
     OS: <OS + VERSION HERE>

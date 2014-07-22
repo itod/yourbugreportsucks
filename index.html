@@ -1,0 +1,152 @@
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Your Bug Report Sucks</title>
+    <link rel="stylesheet" href="style.css" type="text/css" charset="utf-8">
+    <style type="text/css" media="screen">
+    #wrapper {
+        width:700px;
+        margin:30px auto 50px;
+    }
+    </style>
+</head>
+<body>
+<div id="wrapper">
+
+
+<h4 id="no_offense_but_your_bug_report_sucks">No offense, but your bug report sucks.</h4>
+
+<p>Don&#8217;t take it personally. I used to write really sucky bug reports myself. </p>
+
+<p>But then I got a job as a lowly programmer at a certain fruit company, where they take internal bug reporting fairly seriously. That&#8217;s where I learned how to write great bug reports.</p>
+
+<p>I&#8217;d like to share what I&#8217;ve learned so you can write great bug reports too!</p>
+
+<h4 id="why_should_i_care_about_writting_great_bug_reports_i_hear_you_ask"><em>Why should I care about writting great bug reports?</em> I hear you ask.</h4>
+
+<p>You&#8217;ve taken the time to contact a devloper about a bug in their software. So, clearly, you want this bug to be squashed. The best thing you can do to help make that happen, is to write a great bug report. This will vastly increase the chances that the bug will get fixed in a timely manner.</p>
+
+<p>And honestly, it only takes a few short minutes. <em>Turns Out</em>™, writing a great bug report is easy!</p>
+
+<hr />
+
+<h4 id="a_great_bug_report_always_contains_the_following_essential_parts">A great bug report always contains the following essential parts:</h4>
+
+<ol>
+<li>SUMMARY</li>
+<li>SETUP</li>
+<li>STEPS TO REPRODUCE</li>
+<li>EXPECTED RESULT</li>
+<li><p>ACTUAL RESULT</p>
+
+<p><em>If you&#8217;re feeling especially helpful, one additional component is always appreciated:</em></p></li>
+<li><p>ADDITIONAL NOTES (OPTIONAL)</p></li>
+</ol>
+
+<p>Let&#8217;s break these down.</p>
+
+<ol>
+<li><p>SUMMARY</p>
+
+<p>A one (or maybe two) sentence, high-level description of the problem. This is almost like a subject line of an email.</p></li>
+<li><p>SETUP</p>
+
+<p>This is where you tell the developer about your setup. Three things are vital:</p>
+
+<ol>
+<li>The hardware device you&#8217;re using (like <code>iPhone 5S</code>, or <code>2013 MacBookPro Retina</code>)</li>
+<li>The OS version you&#8217;re using (like <code>iOS 7.2</code>, or <code>OS X 10.9.4</code>)</li>
+<li>The specific version of the app you&#8217;re using. Include build numbers if possible. (like <code>Mail.app Version 7.3 (1878.6)</code>, or <code>TextMate version 2.0-alpha.9551</code>)</li>
+</ol>
+
+<p>If you&#8217;re reporting a bug on a website, substitute <strong>the name and version of the web browser you are using</strong> for the app name and version.</p></li>
+<li><p>STEPS TO REPRODUCE</p>
+
+<p><strong>This is the most important part</strong>. Break the issue down into a specific numbered list of steps that always (or at least sometimes) reproduces the problem. </p>
+
+<p>Seriously, break it down into a numbered list of steps. Here&#8217;s an example:</p>
+
+<p>&#8220;`</p>
+
+<ol>
+<li>Visit example.com in any browser listed in SETUP above. See normal &#8220;Home&#8221; page appear.</li>
+<li>Click blue &#8220;compose&#8221; button. See &#8220;compose&#8221; text area appear</li>
+<li>Type &#8220;hello world&#8221; in compose text area
+etc…
+&#8220;`</li>
+</ol></li>
+<li><p>EXPECTED RESULT</p>
+
+<p>Sometimes the desired outcome you expect is not obvious to the developer. Just to be safe, spell it out here in one short sentence or phrase.</p></li>
+<li><p>ACTUAL RESULT</p>
+
+<p>This is what you&#8217;ve been waiting for! Here&#8217;s your chance to describe what is actually going wrong. Make this section as long and detailed as you like. In fact, rant away! Since you&#8217;ve already provided <strong>a numbered list of steps</strong> to reproduce the problem (you did provide a numbered list of steps, didn&#8217;t you?), you&#8217;re now free to complain all you like about what&#8217;s going wrong!</p>
+
+<p>If the app crashes, describe that here, and include the entire crash log, please!</p>
+
+<p><em>And Finally, the optional part:</em></p></li>
+<li><p>ADDITIONAL NOTES (OPTIONAL)</p>
+
+<p>If you&#8217;re feeling especially helpful, fee free to provide additional info here. For example, if you know what version this issue first appeared in, please mention that here.</p>
+
+<p>If you&#8217;re reporting a bug in a website, did you try to reproduce it in multiple browsers? (That&#8217;s always a great idea, BTW.) Great! Tell us about it here!</p>
+
+<p>If you&#8217;re reporting a bug in a Mac app, did you simultaneously run Console.app and capture some suspicious-looking console logs? (That&#8217;s always a great idea, BTW.) Great! Tell us about it here!</p></li>
+</ol>
+
+<p>Below is a template to get you started. Please copy and paste this into an email or your bug reporting sofware of choice and start from there.</p>
+
+<p>That&#8217;s it! Thanks for reading, and happy bug reporting!</p>
+
+<hr />
+
+<pre><code>SUMMARY
+------------------
+&lt;REPLACE ME WITH A HIGH-LEVEL DESCRIPTION OF THE PROBLEM IN A SENTENCE OR TWO&gt;
+
+
+SETUP
+------------------
+Device: &lt;DEVICE + VERSION HERE&gt;
+OS: &lt;OS + VERSION HERE&gt;
+App: &lt;APP OR BROWSER + VERSION NUMBER HERE&gt;
+
+
+STEPS TO REPRODUCE
+------------------
+1. &lt;STEP ONE&gt;
+2. &lt;STEP TWO&gt;
+3. &lt;ETC&gt;
+
+
+EXPECTED RESULT
+------------------
+&lt;WHAT DID YOU EXPECT&gt;
+
+
+ACTUAL RESULT
+------------------
+&lt;WHAT WENT WRONG&gt;
+
+
+ADDITIONAL NOTES
+------------------
+&lt;CRASH LOGS, CONSOLE ERROR MESSAGES, AND OTHER OPTIONAL INFO&gt;
+</code></pre>
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53066460-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</div>
+</body>

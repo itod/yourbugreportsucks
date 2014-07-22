@@ -41,7 +41,7 @@ Let's break these down.
     1. The OS version you're using (like `iOS 7.2`, or `OS X 10.9.4`)
     1. The specific version of the app you're using. Include build numbers if possible. (like `Mail.app Version 7.3 (1878.6)`, or `TextMate version 2.0-alpha.9551`)
     
-    If you're reporting a bug on a website, substite the app name and version for the name and version of the web browser you are using.
+    If you're reporting a bug on a website, substite **the name and version of the web browser you are using** for the app name and version.
     
 1. STEPS TO REPRODUCE
     

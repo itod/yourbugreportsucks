@@ -61,7 +61,7 @@ Let's break these down.
 
     This is what you've been waiting for! Here's your chance to describe what is actually going wrong. Make this section as long and detailed as you like. In fact, rant away! Since you've already provided **a numbered list of steps** to reproduce the problem (you did provide a numbered list of steps, didn't you?), you're now free to complain all you like about what's going wrong!
     
-    If the app crashes, describe that here, and include the entire crash log, please!
+    If the app crashes, describe that here, and include the entire crash log, please.
     
     *And Finally, the optional part:*
 

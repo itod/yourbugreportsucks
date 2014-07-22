@@ -14,7 +14,7 @@ And honestly, it only takes a few extra minutes. *Turns Out*™, writing a great
 
 ---
 
-A great bug report always contains the following essential parts:
+**A great bug report always contains the following essential parts:**
 
 1. SUMMARY
 1. CONTEXT

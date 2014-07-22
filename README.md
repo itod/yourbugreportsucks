@@ -1,4 +1,4 @@
-**No offense, but your bug report sucks.**
+####No offense, but your bug report sucks.
 
 Don't take it personally. I used to write really sucky bug reports myself. 
 
@@ -6,15 +6,15 @@ But then I got a job as a lowly programmer at a certain fruit company, where the
 
 I'd like to share what I've learned so you can write great bug reports too!
  
- ***Why should I care about writting great bug reports?* I hear you ask.**
+####*Why should I care about writting great bug reports?* I hear you ask.
  
 You've taken the time to contact a devloper about a bug in their software. So, clearly, you want this bug to be squashed. The best thing you can do to help make that happen, is to write a great bug report. This will vastly increase the chances that the bug will get fixed in a timely manner.
 
-And honestly, it only takes a few extra minutes. *Turns Out*™, writing a great bug report is easy!
+And honestly, it only takes a few short minutes. *Turns Out*™, writing a great bug report is easy!
 
 ---
 
-**A great bug report always contains the following essential parts:**
+####A great bug report always contains the following essential parts:
 
 1. SUMMARY
 1. CONTEXT
@@ -53,9 +53,7 @@ Let's break these down.
     
     That's all we really need.
     
-    **A numbered list of steps.**
-    
-    Did I mention we need ***A NUMBERED LIST OF STEPS***?
+    Did I mention we need ***a numbered list of steps***?
     
 1. EXPECTED RESULT
 
@@ -76,12 +74,12 @@ Let's break these down.
     If you're reporting a bug in a website, did you try to reproduce it in multiple browsers? (That's always a great idea, BTW.) Great! Tell us about it here!
     
     If you're reporting a bug in a Mac app, did you simultaneously run Console.app and capture some suspicious-looking console logs? (That's always a great idea, BTW.) Great! Tell us about it here!
-    
-That's it! Thanks for reading.
 
-Below is a template to get you started. Please copy it use it as a starting point.
-   
---- 
+Below is a template to get you started. Please copy and paste this into an email or your bug reporting sofware of choice and start from there.
+
+That's it! Thanks for reading, and happy bug reporting!
+
+---
 
     SUMMARY
     ------------------
@@ -115,3 +113,4 @@ Below is a template to get you started. Please copy it use it as a starting poin
     ADDITIONAL NOTES
     ------------------
     <CRASH LOGS, CONSOLE ERROR MESSAGES, AND OTHER OPTIONAL INFO>
+

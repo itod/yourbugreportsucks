@@ -59,7 +59,7 @@ Let's break these down.
     
 1. EXPECTED RESULT
 
-    I know it's hard to believe, but sometimes the desired outcome you expect is not obvious to the developer. Just to be safe, spell it out here in one short sentence or phrase.
+    Sometimes the desired outcome you expect is not obvious to the developer. Just to be safe, spell it out here in one short sentence or phrase.
 
 1. ACTUAL RESULT
 

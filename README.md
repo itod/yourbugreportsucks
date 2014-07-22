@@ -1,17 +1,3 @@
-    <head>
-        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-        <title>Your Bug Report Sucks</title>
-        <link rel="stylesheet" href="style.css" type="text/css" charset="utf-8">
-        <style type="text/css" media="screen">
-        #wrapper {
-            width:700px;
-            margin:30px auto 50px;
-        }
-        </style>
-    </head>
-    <body>
-    <div id="wrapper">
-
 **No offense, but your bug report sucks.**
 
 Don't take it personally. I used to write really sucky bug reports myself. 
@@ -93,7 +79,7 @@ Let's break these down.
     
 That's it! Thanks for reading.
 
-Below is a template to get you started. Please copy it use it as a starting point. (Did I mention we need **a numbered list of steps to reproduce**?)
+Below is a template to get you started. Please copy it use it as a starting point.
    
 --- 
 
@@ -129,6 +115,3 @@ Below is a template to get you started. Please copy it use it as a starting poin
     ADDITIONAL NOTES
     ------------------
     <CRASH LOGS, CONSOLE ERROR MESSAGES, AND OTHER OPTIONAL INFO>
-        
-    </div>
-    </body>

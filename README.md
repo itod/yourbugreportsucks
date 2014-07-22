@@ -48,12 +48,10 @@ Let's break these down.
     
     Seriously, break it down into a numbered list of steps. Here's an example:
     
-    ```
-    1. Visit example.com in any browser listed in SETUP above. See normal "Home" page appear.
-    2. Click blue "compose" button. See "compose" text area appear
-    3. Type "hello world" in compose text area
-    etc…
-    ```
+        1. Visit example.com in any browser listed in SETUP above. See normal "Home" page appear.
+        2. Click blue "compose" button. See "compose" text area appear
+        3. Type "hello world" in compose text area
+        etc…
     
 1. EXPECTED RESULT
 

@@ -14,37 +14,6 @@ And honestly, it only takes a few extra minutes. *Turns Out*™, writing a great
 
 ---
 
-The best way to describe a great bug report is to start with an example:
-
-```
-SUMMARY
-------------------
-Enabling AppleID two-step verication prevents logging into iTunesConnect mobile app on iOS
-
-CONTEXT
-------------------
-Device: iPhone 5S
-OS: iOS 7.3
-App: iTunes Connect.app
-
-STEPS TO REPRODUCE
-------------------
-1. Register as Apple iOS developer on developer.apple.com
-2. Enable "Two-step verification" for your Apple Developer account at https://appleid.apple.com/account/manage/security
-3. Install iTunesConnect mobile iOS app on iOS device  https://itunes.apple.com/us/app/itunes-connect/id376771144?mt=8
-4. Lauch iTC. See login screen.
-5. Login with AppleID credentials
-
-EXPECTED RESULT
-------------------
-Login should be possible, and iTC should use 2-step verification by sending a text message of some kind with a 1-time expiring login code
-
-ACTUAL RESULT
-------------------
-After submitting login form, an error dialog appears with the message: "Error logging in. Please try again."
-```
----
-
 A great bug report always contains the following essential parts:
 
 1. SUMMARY
@@ -108,7 +77,7 @@ Let's break these down.
     
     If you're reporting a bug in a Mac app, did you simultaneously run Console.app and capture some suspicious-looking console logs (this is always a great idea, BTW)? Great! Tell us about it here!
     
-Thats it! Thanks for reading.
+That's it! Thanks for reading.
 
 Below is a template to get you started. Please copy it use it as a starting point. (Did I mention we need **a numbered list of steps to reproduce**?)
    

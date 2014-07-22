@@ -85,33 +85,33 @@ Below is a template to get you started. Please copy it use it as a starting poin
 
     SUMMARY
     ------------------
-    *<REPLACE ME WITH A HIGH-LEVEL DESCRIPTION OF THE PROBLEM IN A SENTENCE OR TWO>*
+    <REPLACE ME WITH A HIGH-LEVEL DESCRIPTION OF THE PROBLEM IN A SENTENCE OR TWO>
 
 
     CONTEXT
     ------------------
-    Device: *<DEVICE + VERSION HERE>*
-    OS: *<OS + VERSION HERE>*
-    App: *<APP OR BROWSER + VERSION NUMBER HERE>*
+    Device: <DEVICE + VERSION HERE>
+    OS: <OS + VERSION HERE>
+    App: <APP OR BROWSER + VERSION NUMBER HERE>
 
 
     STEPS TO REPRODUCE
     ------------------
-    1. *<STEP ONE>*
-    2. *<STEP TWO>*
-    3. *<ETC>*
+    1. <STEP ONE>
+    2. <STEP TWO>
+    3. <ETC>
 
 
     EXPECTED RESULT
     ------------------
-    *<WHAT DID YOU EXPECT>*
+    <WHAT DID YOU EXPECT>
 
 
     ACTUAL RESULT
     ------------------
-    *<WHAT WENT WRONG>*
+    <WHAT WENT WRONG>
 
 
     ADDITIONAL NOTES
     ------------------
-    *<CRASH LOGS, CONSOLE ERROR MESSAGES, AND OTHER OPTIONAL INFO>*
+    <CRASH LOGS, CONSOLE ERROR MESSAGES, AND OTHER OPTIONAL INFO>

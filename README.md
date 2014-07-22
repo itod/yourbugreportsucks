@@ -36,8 +36,8 @@ Let's break these down.
 
     This is where you tell the developer about your setup. Three things are vital:
     
-    1. The hardware device you're using (like `iPhone 5S`, or `2013 MacBookPro Retina`)
-    1. The OS version you're using (like `iOS 7.2`, or `OS X 10.9.4`)
+    1. The hardware device you're using. (like `iPhone 5S`, or `2013 MacBookPro Retina`)
+    1. The OS version you're using. (like `iOS 7.2`, or `OS X 10.9.4`)
     1. The specific version of the app you're using. Include build numbers if possible. (like `Mail.app Version 7.3 (1878.6)`, or `TextMate version 2.0-alpha.9551`)
     
     If you're reporting a bug on a website, substitute **the name and version of the web browser you are using** for the app name and version.
@@ -59,11 +59,11 @@ Let's break these down.
 
 1. ACTUAL RESULT
 
-    This is what you've been waiting for! Here's your chance to describe what is actually going wrong. Make this section as long and detailed as you like. In fact, rant away! Since you've already provided **a numbered list of steps** to reproduce the problem (you did provide a numbered list of steps, didn't you?), you're now free to complain all you like about what's going wrong!
+    This is what you've been waiting for. Here's your chance to describe what is actually going wrong. Make this section as long and detailed as you like. In fact, rant away! Since you've already provided **a numbered list of steps** to reproduce the problem (you did provide a numbered list of steps, didn't you?), you're now free to complain all you like about what's going wrong.
     
     If the app crashes, describe that here, and include the entire crash log, please.
     
-    *And Finally, the optional part:*
+    *And finally, the optional part:*
 
 1. ADDITIONAL NOTES (OPTIONAL)
 

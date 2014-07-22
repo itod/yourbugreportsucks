@@ -1,8 +1,8 @@
 ####No offense, but your bug report sucks.
 
-Don't take it personally. I used to write really sucky bug reports myself. 
+Actually, I used to write really sucky bug reports myself. 
 
-But then I got a job as a lowly programmer at a certain fruit company, where they take internal bug reporting fairly seriously. That's where I learned how to write great bug reports.
+But then I got a job as a lowly programmer at a certain fruit company, where internal bug reporting is taken fairly seriously. That's where I learned how to write great bug reports.
 
 I'd like to share what I've learned so you can write great bug reports too!
  
@@ -22,7 +22,7 @@ And honestly, it only takes a few short minutes. *Turns Out*™, writing a great
 1. EXPECTED RESULT
 1. ACTUAL RESULT
 
-    *If you're feeling especially helpful, one additional component is always appreciated:*
+    *If you're feeling especially helpful, one additional part is always appreciated:*
 
 1. ADDITIONAL NOTES (OPTIONAL)
 
@@ -30,7 +30,7 @@ Let's break these down.
 
 1. SUMMARY
     
-    A one (or maybe two) sentence, high-level description of the problem. This is almost like a subject line of an email.
+    A one (or maybe two) sentence, high-level description of the problem. This is almost like the subject line of an email.
     
 1. SETUP
 
@@ -111,5 +111,5 @@ That's it! Thanks for reading, and happy bug reporting!
 
     ADDITIONAL NOTES
     ------------------
-    <CRASH LOGS, CONSOLE ERROR MESSAGES, AND OTHER OPTIONAL INFO>
+    <CRASH LOGS, CONSOLE ERROR MESSAGES, VERSION THIS FIRST APPEARED, AND OR OTHER OPTIONAL INFO>
 

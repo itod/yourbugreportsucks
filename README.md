@@ -73,9 +73,9 @@ Let's break these down.
 
     If you're feeling especially helpful, fee free to provide additional info here. 
     
-    If you're reporting a bug in a website, did you try to reproduce it in multiple browsers? (That's is always a great idea, BTW.) Great! Tell us about it here!
+    If you're reporting a bug in a website, did you try to reproduce it in multiple browsers? (That's always a great idea, BTW.) Great! Tell us about it here!
     
-    If you're reporting a bug in a Mac app, did you simultaneously run Console.app and capture some suspicious-looking console logs? (That's is always a great idea, BTW.) Great! Tell us about it here!
+    If you're reporting a bug in a Mac app, did you simultaneously run Console.app and capture some suspicious-looking console logs? (That's always a great idea, BTW.) Great! Tell us about it here!
     
 That's it! Thanks for reading.
 

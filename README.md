@@ -6,11 +6,11 @@ But then I got a job as a lowly programmer at a certain fruit company, where the
 
 I'd like to share what I've learned so you can write great bug reports too!
  
- ***Why should I care about writting great bug reports?* you ask.**
+ **«*Why should I care about writting great bug reports?*» I hear you ask.**
  
-You've taken the step of contacting the devloper to report the bug, so clearly, you want this bug to be squashed. The best thing you can do to help is to write a great bug report. This will vastly increase the chances that the bug will get fixed in a timely manner.
+You've taken the step of contacting the devloper to report the bug, so clearly, you want this bug to be squashed. The best thing you can do to help, is to write a great bug report. This will vastly increase the chances that the bug will get fixed in a timely manner.
 
-And honestly, it only takes a few extra minutes. *Turns Out*™, writing a great bug report is easy.
+And honestly, it only takes a few extra minutes. *Turns Out*™, writing a great bug report is easy!
 
 ---
 

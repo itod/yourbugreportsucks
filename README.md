@@ -30,7 +30,7 @@ Let's break these down.
 
 1. SUMMARY
     
-    A one (or maybe two) sentence, high-level description of the problem. This is almost like the subject line of an email.
+    One or two sentences containing a high-level description of the problem. This is almost like the subject line of an email.
     
 1. SETUP
 
